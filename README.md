@@ -8,9 +8,11 @@
 
 プリセットを使用することで、使用場面ごとにメディアファイルを分類しておくことができます。
 
-![Menu_Add_Preset](screenshots/menu_add_preset.png?raw=true "Test Image Title")
+![Menu_Add_Preset](screenshots/menu_add_preset.png?raw=true "プリセット追加")
 
 メニューの 「編集」 → 「プリセットを追加」 を選ぶと新しいプリセットを追加できます。
+
+![Menu_Add_Preset](screenshots/context_add_preset.png?raw=true "プリセット追加")
 
 もしくは、プリセットのリスト上を右クリックして、「プリセットの追加」を選ぶことで追加できます。
 
