@@ -27,4 +27,10 @@
 
 #### 2. ソースの追加
 
+![Menu_Add_Preset](screenshots/menu_add_source.png?raw=true "ソース追加")
+
 **プリセットを選択した状態**で、メニューの「編集」→「ソースを追加」を選ぶとファイルを開くダイアログが出るので、ファイル選択後、「開く」を押すと、ソースとしてメディアファイルが追加されます。
+
+![Menu_Add_Preset](screenshots/context_add_source.png?raw=true "ソース追加")
+
+また、ソースのリスト上を右クリックして、「ソースの追加」を選ぶことで追加できます。
